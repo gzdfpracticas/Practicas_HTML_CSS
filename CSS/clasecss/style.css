@@ -1,0 +1,17 @@
+/* Etiqueta: Parrafo */
+p {
+    color: blue;
+    font-size: medium;
+}
+
+/* Clase: Parrafo */
+.parrafo {
+    color: red;
+    font-size: large;
+}
+
+/* ID: Parrafo_id */
+#Parrafo_id {
+    color: violet;
+    font-size: larger;
+}

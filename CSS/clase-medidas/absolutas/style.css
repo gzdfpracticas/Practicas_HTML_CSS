@@ -1,0 +1,15 @@
+main {
+    background-color: red;
+    width: 100%;
+    height: 500px;
+}
+
+/* Absoluta */
+/*p {
+    font-size: 18px;
+}*/
+
+/* Relativa */
+p {
+    font-size: 16px;
+}
